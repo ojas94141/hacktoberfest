@@ -2,4 +2,4 @@
 Added tomal
 
 
-Added Sorting Algorithm in Python.
+Added sorting algorithm in Python.
